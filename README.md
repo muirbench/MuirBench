@@ -4,6 +4,10 @@
 
 [**🌐 Homepage**](https://muirbench.github.io/) | [**🤗 Dataset**](https://huggingface.co/datasets/MUIRBENCH/MUIRBENCH) | [**📖 Paper**](https://arxiv.org/abs/2406.09411) | [**💻 Evaluation**](https://github.com/muirbench/MuirBench) 
 
+## News
+
+* 🔥 [2024-07-15] MuirBench is now on [LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval), enabling rapid evaluation on multimodal LLMs.
+* 🔥 [2024-06-13] MuirBench is released.
 
 ## Intro
 
