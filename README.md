@@ -6,7 +6,7 @@
 
 ## News
 
-* 🔥 [2024-07-15] MuirBench is now on [LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval), enabling rapid evaluation on multimodal LLMs.
+* 🔥 [2024-07-15] MuirBench is now on [LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval/tree/main/lmms_eval/tasks/muirbench), enabling rapid evaluation on multimodal LLMs.
 * 🔥 [2024-06-13] MuirBench is released.
 
 ## Intro
